@@ -20,3 +20,13 @@ if num % 2 == 0:
     print(num, "is an Even number")
 else:
     print(num, "is an Odd number")
+ 
+for i in range (1, 111):
+    print(i)
+
+
+m1 = int(input("Enter marks for subject English:"))
+m2 = int(input("Enter marks for subject Urdu:"))       
+m3 = int(input("Enter marks for subject Math:"))
+average = (m1 + m2 + m3) / 3 # Calculate average
+print("The average is:", average) 
