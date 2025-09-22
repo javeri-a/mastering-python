@@ -5,3 +5,9 @@ num2 = int(input("Enter your 2nd number:"))
 
 print("the sum is:", num1 + num2)
 print("successfully added!")
+
+
+name = input("Enter your name:")
+city = input("Enter your city:")
+print(name, "lives in",city) # using commas
+print ("hello! my name is" +name +"and Iam from" + city) # string concatenation
