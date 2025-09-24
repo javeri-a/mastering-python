@@ -22,3 +22,34 @@ Python uses .pyc files automatically, you don’t run them manually.
 
 If environment variable PYTHONDONTWRITEBYTECODE=1 is set, .pyc files will not be created.
 <img width="1589" height="1006" alt="f29ef9a6-c410-4fab-a0ec-7ca6806f2617" src="https://github.com/user-attachments/assets/3dc8abad-f17c-4c20-a965-4295b5af2621" />
+
+Tuples in Python
+
+A tuple is a collection data type in Python.
+
+It looks like a list, but it is immutable (cannot be changed after creation).
+
+Tuples are written using round brackets ().
+
+Example:
+
+fruits = ("apple", "banana", "mango")
+print(fruits[0])  # Output: apple
+
+Key Points
+
+Tuples are faster than lists.
+
+Use when you want fixed data that should not change.
+
+Indexing and slicing work the same as lists.
+
+Useful for storing structured data, like coordinates or records.
+
+Use Cases
+
+Coordinates: (latitude, longitude)
+
+Database records: (id, name, age)
+
+Fixed categories: days of the week, months, etc.
