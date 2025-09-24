@@ -54,4 +54,8 @@ Database records: (id, name, age)
 
 Fixed categories: days of the week, months, etc.
 
+Why Tuples?
 
+Jab data fix ho aur accidentally change na ho.
+
+Lists zyada flexible hoti hain, tuples zyada safe aur fast.
