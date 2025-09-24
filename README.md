@@ -53,3 +53,5 @@ Coordinates: (latitude, longitude)
 Database records: (id, name, age)
 
 Fixed categories: days of the week, months, etc.
+
+
