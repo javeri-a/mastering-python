@@ -23,3 +23,7 @@ print("the result is:", result)
 num3 = int(input("Enter your 1st number:"))
 num4 = int(input("Enter your 2nd number:"))
 print("the sum is:", num3 + num4)
+
+num3 = int(input("Enter your 1st number:"))
+num4 = int(input("Enter your 2nd number:"))
+print("the sum is:", num3 + num4)

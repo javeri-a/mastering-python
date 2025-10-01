@@ -7,12 +7,15 @@ print("the sum is:", num1 + num2)
 print("successfully added!")
 
 
+
+
+
 name = input("Enter your name:")
 city = input("Enter your city:")
 print(name, "lives in", city) # using commas
-print("hello! my name is " + name + " and  am from " + city) # string concatenation
+# print("hello! my name is " + name + " and  am from " + city) # string concatenation
 
-
+print  ("hello my name is "+ name + " and  am from" + city)
 
 # Even or Odd
 num  = int(input("Enter a number:"))
