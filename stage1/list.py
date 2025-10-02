@@ -33,3 +33,7 @@ print(numbers[-3:])  # [50, 60, 70]
 print(numbers[:-3])  # [10, 20, 30, 40]
 print(numbers[::2])  # [10, 30, 50, 70]
 print(numbers[::-1]) # [70, 60, 50, 40,
+print(numbers[:-3])  # [10, 20, 30, 40]
+print(numbers[::2])  # [10, 30, 50, 70]
+print(numbers[::-1]) # [70, 60, 50, 40,
+  
