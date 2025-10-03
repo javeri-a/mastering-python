@@ -2,6 +2,7 @@
 
 # A list is a collection of items.
 
+
 # You can store numbers, strings, or even other lists inside it.
 
 # Lists are mutable, meaning you can change, add, or remove items.
@@ -33,7 +34,3 @@ print(numbers[-3:])  # [50, 60, 70]
 print(numbers[:-3])  # [10, 20, 30, 40]
 print(numbers[::2])  # [10, 30, 50, 70]
 print(numbers[::-1]) # [70, 60, 50, 40,
-print(numbers[:-3])  # [10, 20, 30, 40]
-print(numbers[::2])  # [10, 30, 50, 70]
-print(numbers[::-1]) # [70, 60, 50, 40,
-  
