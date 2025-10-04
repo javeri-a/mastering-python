@@ -2,7 +2,7 @@ print("════════════════════════�
 print("       🎓 STUDENT DATABASE MANAGER   ")
 print("════════════════════════════════════")
 
-students = []  # Empty list to store students
+students = [] 
 
 while True:
     print("\nChoose an option:")
