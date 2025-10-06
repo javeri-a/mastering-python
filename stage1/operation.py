@@ -33,3 +33,12 @@ print(x > y)   # Greater than
 print(x < y)   # Less than
 print(x >= y)  # Greater or equal
 print(x <= y)  # Less or equal
+
+
+
+a = 10
+b = 5
+
+print(a > 3 and b < 10)  # True if both true
+print(a > 20 or b < 10)  # True if any one true
+print(not(a > 3))        # Reverse the result
